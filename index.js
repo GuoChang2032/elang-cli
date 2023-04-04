@@ -29,10 +29,10 @@ program.command('init <name>')
     .action((name, opts) => {
 
         
-        let url = 'rftughniwwe/template-project#main'
+        let url = 'GuoChang2032/vue-template-admin#main'
         let tipTxt = '前台模板下载中,请稍后......'
         if (opts.type === 'backstage') {
-            url = 'rftughniwwe/template-project#backstage'
+            url = 'GuoChang2032/vue-template-admin#backstage'
             tipTxt = '后台模板下载中,请稍后......'
         }
         const spinner = ora(tipTxt).start();
