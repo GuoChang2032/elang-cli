@@ -1,6 +1,6 @@
 {
   "name": "elang-cli",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "private": false,
   "description": "",
   "main": "index.js",
