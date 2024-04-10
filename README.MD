@@ -10,3 +10,6 @@
 ## 代码模板地址
 [https://github.com/GuoChang2032/vue-template-admin.git](https://github.com/GuoChang2032/vue-template-admin.git)
 
+## 发布
+npm version patch
+npm publish
